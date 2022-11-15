@@ -3,7 +3,7 @@ const inquirer = require('inquirer');
 const { writeFile } = require('fs');
 
 // TODO: Create an array of questions for user input
-const promptUser = () => {
+const questions = () => {
     return inquirer.prompt([
     {
         type: 'input',
