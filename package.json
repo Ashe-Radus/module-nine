@@ -9,6 +9,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^8.2.4"
-  }
+    "inquirer": "^8.2.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashe-Radus/module-nine.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Ashe-Radus/module-nine/issues"
+  },
+  "homepage": "https://github.com/Ashe-Radus/module-nine#readme"
 }
